@@ -74,5 +74,6 @@ options:
                         Example:
                         --match="device_info.midi_identity.manufacturer ==
                         '0x6f'" (default: None)
+  -s SERIAL_DEVICE      Use this Option to manually input the Serial Device SERIAL_DEVICE
   --list                List available devices (default: False)
 ```
